@@ -1,0 +1,7 @@
+/build/
+/out/
+/data/
+/.idea/
+*.iml
+*.class
+*.tmp
